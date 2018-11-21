@@ -1,6 +1,6 @@
 # Pixel Art Maker Project
 
-[Project Link][https://github.com/muskan09/Pixel-Art-Maker/]
+[Project Link](https://github.com/muskan09/Pixel-Art-Maker/)
 
 ## Build
 
